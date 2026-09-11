@@ -1,0 +1,8 @@
+{
+  "base_crops": 25000,
+  "train_samples": 50000,
+  "augment_copies": 1,
+  "features": 343,
+  "cap": 2500,
+  "seed": 42
+}
